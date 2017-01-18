@@ -1,0 +1,16 @@
+Release Notes
+
+Back to top
+
+6.22 - Fixes to VMware style. Consolidating plugins. Updates to style handling.
+6.21 - Added support for charts. New plugins. Support non-standard vCenter Ports. Bugfixes
+6.20 - First tagged release. Bugfixes. Email resource support added.
+6.19 - Bugfixes.
+6.18 - Added Job parameter to allow job specifications via XML file
+6.17 - Basic Internationalization (i18n) support
+6.16 - Table formatting rules
+6.15 - Added Category to all plugins and features to vCheckUtils script for Categorys.
+6.14 - Fixed a bug where a plugin was resetting the $VM variable so later plugins were not working :(
+6.13 - Fixed issue with plugins 63 and 65 not using the days
+6.12 - Changed Version to PluginVersion in each Plugin as the word Version is very hard to isolate!
+6.11 - Fixed a copy and paste mistake and plugin issues.
